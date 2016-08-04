@@ -1,4 +1,3 @@
-layout_spectrum: 0.685837808996439
 typography_spectrum: 0.8412677699234337
 color:
   brandStrength: 0.157273176824674
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.685837808996439
 name: Quirked Music
 title: Finding music for your every mood
+description: Music that feels you
